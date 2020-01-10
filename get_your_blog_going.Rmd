@@ -65,7 +65,7 @@ I **strongly recommend** sticking with hugo-academic for your site, at least for
 
 Let's go ahead and do it by running the following: 
 ```{r, eval = FALSE}
-new_site(theme = "gcushen/hugo-academic", 
+new_site(theme = "sethmacleod/aerial", 
          sample = TRUE, 
          theme_example = TRUE, 
          empty_dirs = TRUE,
